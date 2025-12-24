@@ -1,9 +1,7 @@
 # Customer_behavior_analysis
 "End-to-end data analytics pipeline: Cleaning shopping data in Python, SQL querying in PostgreSQL, and interactive dashboarding in Power BI."
 <img width="1363" height="728" alt="image" src="https://github.com/user-attachments/assets/330e50f6-05bd-44d2-896b-9d0d9309fb82" />
-Here is a professional, high-impact `README.md` template designed to impress recruiters. It highlights your ability to handle the full data lifecycle—from raw data to executive presentation.
 
----
 
 # 🛒 Customer Behavior & Analytics Pipeline
 
@@ -67,7 +65,3 @@ This project demonstrates a complete data pipeline. I performed initial data cle
 3. **Setup Database:** Execute the `Database_Setup.sql` file in pgAdmin.
 4. **View Dashboard:** Open the `.pbix` file in Power BI Desktop (Ensure the SQL connection string is updated).
 5. **Review Report:** See `Final_Report.pdf` for a deep dive into the business recommendations.
-
----
-
-**Would you like me to help you write the "Business Recommendations" section for your Gamma AI presentation slides?**
